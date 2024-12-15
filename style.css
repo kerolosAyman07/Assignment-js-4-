@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    font-family: "Titillium Web", sans-serif;
+    background-color: #243640;
+}
+
+.main1{
+    box-shadow: 0px 2px 54px 5px rgba(0, 0, 0, 0.5);
+    background-color: #243640;
+}
+
+.main2{
+    box-shadow: 0px 2px 54px 5px rgba(0, 0, 0, 0.5);
+    background-color: #243640;
+}
+
+main h1{
+    color: #17A2B8;
+}
+
+form input{
+    background-color: #243640;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
